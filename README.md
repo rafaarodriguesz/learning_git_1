@@ -8,3 +8,12 @@ balbalbaa
 
 ### esse é um h3
 
+#italico ou negrito
+
+_Italico_
+
+*Italico*
+
+*negrito*
+
+*negrito*
