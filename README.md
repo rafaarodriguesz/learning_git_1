@@ -20,11 +20,11 @@ __negrito__
 
 ### LIST AND UNORDERD LIST
 
-*mercedes
-*bmw
-*audi
+* mercedes
+* bmw
+* audi
 
-1.bmw
-2.audi
-3.mercedes
-    1.mercedes nn é mt boa nn
+1. bmw
+2. audi
+3. mercedes
+    1. mercedes nn é mt boa nn
