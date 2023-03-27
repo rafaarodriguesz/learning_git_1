@@ -52,7 +52,7 @@ function soma (a, b){
 
 ### Checando as tarefas que precisa fazer
 
- - [ ] css
+ - [x] css
  - [x] html
  - [x] javascript
  - [ ] php
