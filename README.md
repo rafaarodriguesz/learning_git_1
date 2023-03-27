@@ -14,6 +14,6 @@ _Italico_
 
 *Italico*
 
-*negrito*
+__negrito__
 
-*negrito*
+**negrito**
