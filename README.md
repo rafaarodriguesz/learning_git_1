@@ -40,3 +40,14 @@ __negrito__
 [https://www.youtube.com/](https://www.youtube.com/)
 
 [![imagem do robin](https://epipoca.com.br/wp-content/uploads/2022/11/robin-os-jovens-titas-1200x900.jpg)](https://github.com/rafaarodriguesz)
+
+### Adicionando Código
+
+```javascript
+
+function soma (a, b){
+    return a + b;
+}
+````
+
+
