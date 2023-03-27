@@ -52,9 +52,9 @@ function soma (a, b){
 
 ### Checando as tarefas que precisa fazer
 
-- [x]css
-- [x]html
-- [x]javascript
-- [ ]php
+ - [x]css
+ - [x]html
+ - [x]javascript
+ - [ ]php
 
 
