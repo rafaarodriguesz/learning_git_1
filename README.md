@@ -28,3 +28,7 @@ __negrito__
 2. audi
 3. mercedes
     1. mercedes nn é mt boa nn
+
+### Adicionando uma imagem
+
+![imagem aleatória](https://bocamafrapremium.com.br/wp-content/uploads/2023/01/f4dcd0d192244ea291e6f3b87ac1ae3c_1674589793726.jpg);
